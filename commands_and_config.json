@@ -1,0 +1,22 @@
+{
+	"systemctl mask udisks2":{
+		"desc":	"Disables Automounting drives in linux. To persist across reboots.",
+		"tags":	["evidence preservation","linux","storage","mounting"],
+		"reversal":	"systemctl unmask udisks2",
+	},
+	"systemctl stop udisks2":{
+		"desc":	"Disables Automounting drives in linux temporarily. Does persist across reboots.",
+		"tags":	["evidence preservation","linux","storage","mounting"],
+		"reversal":	"systemctl start udisks2"
+	},
+	"systemctl status udisks2":{
+		"desc":	"Finds the current state of the service that automounts drives.",
+		"tags":	["linux","storage","mounting"],
+		"reversal":	"",
+	},
+	"mount -o ro /dev/<drive> <mount point>":{
+		"desc":	"Mount selected drive as read only.",
+		"tags":	["evidence preservation","linux","storage","mounting"],
+		"reversal":	"unmount <mount point>",
+	}
+}
