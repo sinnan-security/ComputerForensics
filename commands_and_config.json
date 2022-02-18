@@ -15,8 +15,14 @@
 		"reversal":	"",
 	},
 	"mount -o ro /dev/<drive> <mount point>":{
-		"desc":	"Mount selected drive as read only.",
+		"desc":	"Mount selected partition as read only.",
+		"tags":	["evidence preservation","linux","storage","mounting"],
+		"reversal":	"unmount <mount point>",
+	},
+	"kpartx -a -v <diskimage>":{
+		"desc":	"Mount selected partition as read only.",
 		"tags":	["evidence preservation","linux","storage","mounting"],
 		"reversal":	"unmount <mount point>",
 	}
+	
 }
