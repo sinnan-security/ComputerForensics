@@ -20,9 +20,9 @@
 		"reversal":	"unmount <mount point>",
 	},
 	"kpartx -a -v <diskimage>":{
-		"desc":	"Mount selected partition as read only.",
-		"tags":	["evidence preservation","linux","storage","mounting"],
-		"reversal":	"unmount <mount point>",
+		"desc":	"Initalize mounting points from image.",
+		"tags":	["evidence preservation","linux","virtualization","mounting"],
+		"reversal":	"kpartx -d",
 	}
 	
 }
