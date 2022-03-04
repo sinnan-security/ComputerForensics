@@ -14,15 +14,24 @@
 		"tags":	["linux","storage","mounting"],
 		"reversal":	"",
 	},
+	"systemctl list-units":{
+		"desc":	"List all services.",
+		"tags":	["information gathering","linux","services"],
+		"reversal":	"",
+	},
 	"mount -o ro /dev/<drive> <mount point>":{
 		"desc":	"Mount selected partition as read only.",
 		"tags":	["evidence preservation","linux","storage","mounting"],
 		"reversal":	"unmount <mount point>",
 	},
 	"kpartx -a -v <diskimage>":{
-		"desc":	"Initalize mounting points from image.",
+		"desc":	"Initalize logical mounting devices from image.",
 		"tags":	["evidence preservation","linux","virtualization","mounting"],
 		"reversal":	"kpartx -d",
+	},
+	"ps -aux":{
+		"desc":	"list all processes.",
+		"tags":	["information gathering","linux","processes"],
+		"reversal":	"",
 	}
-	
 }
