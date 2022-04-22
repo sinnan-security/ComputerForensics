@@ -14,7 +14,7 @@ Course Content and Orientation for Computer Forensics
 2. Create (from scratch) a difference tool that checks each file and its contents in a directory against a baseline.
 3. Extend the YARA signature matching to search directories.
 4. Extend the regular expression matching to search directories.
-5. Create you own YARA rules that can detect the samples provided.
+5. Create your own YARA rules that can detect the samples provided [This]. (https://github.com/ytisf/theZoo/tree/master/malware/Binaries/Ransomware.WannaCry).
 
 # Extra Credit:
 1. Point out my mistakes.
@@ -22,6 +22,14 @@ Course Content and Orientation for Computer Forensics
 3. Participate in security related contests.
 4. Submit a book review on topics related to security.
 5. Publish an article related to security.
+
+# Running Containers:
+1. go into your container directory where there are docker-compose.yml file reside.
+2. run docker-compose build
+3. run docker-compose up as sudo
+4. open up a new terminal
+5. docker ps
+6. select the container you want to use and run docker exec -it container_id /bin/bash
 
 # Project Ideas:
 1. Deploy Cuckoo sandbox within a container.
@@ -54,5 +62,15 @@ Course Content and Orientation for Computer Forensics
 7. You will be provided the questions 5 minutes before the start of the examination make sure you read the tasks thoroughly.
 8. You will be allowed an additional 15 minutes at the end of the exam to recheck all of your work.
 9. Before you leave kindly check if you have attempted all of the questions.
+
+# Grading
+Fail:	mean-0.75*std_dev
+2.00:	mean-0.50*std_dev
+2.33:	mean-0.25*std_dev
+2.67:	mean
+3.00:	mean+0.25*std_dev
+3.33:	mean+0.50*std_dev
+3.67:	mean+0.75*std_dev
+4.00:	mean+1.00*std_dev
 
 # Thanks!

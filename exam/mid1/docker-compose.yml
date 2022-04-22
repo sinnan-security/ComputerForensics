@@ -1,0 +1,8 @@
+version: "2"
+services:
+  exam_server:
+     privileged: true
+     build: .
+     ports:
+        - "7080:5000"
+        - "7022:22"
