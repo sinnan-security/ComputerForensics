@@ -64,13 +64,13 @@ Course Content and Orientation for Computer Forensics
 9. Before you leave kindly check if you have attempted all of the questions.
 
 # Grading
-Fail:	mean-0.75*std_dev
-2.00:	mean-0.50*std_dev
-2.33:	mean-0.25*std_dev
-2.67:	mean
-3.00:	mean+0.25*std_dev
-3.33:	mean+0.50*std_dev
-3.67:	mean+0.75*std_dev
-4.00:	mean+1.00*std_dev
+1. Fail:	mean-0.75*std_dev
+2. 2.00:	mean-0.50*std_dev
+3. 2.33:	mean-0.25*std_dev
+4. 2.67:	mean
+5. 3.00:	mean+0.25*std_dev
+6. 3.33:	mean+0.50*std_dev
+7. 3.67:	mean+0.75*std_dev
+8. 4.00:	mean+1.00*std_dev
 
 # Thanks!

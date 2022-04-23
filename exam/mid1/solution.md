@@ -1,4 +1,4 @@
-#Exam deployment instuctions
+# Exam deployment instuctions
 change ip address in the files:
 1. generators/client.py
 2. generators/run.sh
@@ -16,9 +16,9 @@ sudo docker-compose up &
 python3 generators/client.py
 ```
 
-#Marking scheme with ideal answers!
+# Marking scheme with ideal answers!
 
-#Evidence Collection
+# Evidence Collection
 1. Login to machine via ssh.
 ```bash
 native_machine> ssh -p 7022 root@target
@@ -75,7 +75,7 @@ root@target> python3 script.py
 ```bash
 native_machine> scp -r -P 7022 root@target/tmp/deleteafteruse /home/student/ComputerForensics/data/artifacts/mem_dumps
 ```
-#Investiagtion
+# Investiagtion
 The environment setup below is optional.
 ```bash
 native_machine> docker-compose build
@@ -130,12 +130,12 @@ Request Log-+ POST \/token\? .*MWzF2MqBWW.*
 python -r "regex" /home/artifacts/var/log/python/flask/app.log
 ```
 Partial match: body:{"username": "cust1", "password": "RestlessSou7"};p=open("MWzF2MqBWW.c","w")
-#Analysis
+# Analysis
 11.	Attacker exploits the application app.py by injecting executable code
 	The code executes causing a file to be written. The file is C source.
 	The source file is compiled to a program
 	The program is run and the suspicious process is created.
-#Conclusion
+# Conclusion
 12.	The attacker leverages a code injection vulerability in the python applicaton to create malicious process on the target machine.
 	because the payload contained executable code in python.
 13.	cust1 was responsible for the attack
