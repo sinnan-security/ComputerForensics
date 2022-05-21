@@ -86,7 +86,8 @@
 		"Mid_1st_Attempt":"6",
 	},
 	"k200191":{
-		"Mid_1st_Attempt":"4",
+		"Mid_1st_Attempt":"0",
+		"Mid_2nd_Attempt":"0",
 		"26thMatchBonus":"1",
 		"7thMayBonus":"1"
 	},
@@ -128,7 +129,7 @@
 	},
 	"k200301":{
 		"Mid_1st_Attempt":"4",
-		"26thMatchBonus":"2431"
+		"26thMatchBonus":"1"
 	},
 	"k200127":{
 		"Mid_1st_Attempt":"4",
@@ -156,4 +157,9 @@
 		"26thMatchBonus":"0",
 		"7thMayBonus":"1",
 	},
+	"k200329":{
+		"Mid_1st_Attempt":"0",
+		"Mid_2nd_Attempt":"0",
+		"26thMatchBonus":"1"
+	}
 }
