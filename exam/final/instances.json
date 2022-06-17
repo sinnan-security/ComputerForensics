@@ -1,18 +1,18 @@
 {
   "cluster0.SuccessfulCompany.com": {
-    "ssh": {"port": "2200","username": "root","password": "GrepperHook98"},
+    "ssh": {"port": "2200","username": "root","password": "Hero23Oxy","logs":"/var/log/ssh.log"},
     "http": {"portrange": ["8000","8009"],"config": "/etc/service/*.conf"}
   },
   "cluster1.SuccessfulCompany.com": {
-    "ssh": {"port": "2210","username": "root","password": "BridgeDawn11"},
+    "ssh": {"port": "2210","username": "root","password": "GrepperHook98","logs":"/var/log/ssh.log"},
     "http": {"portrange": ["8010","8019"],"config": "/etc/service/*.conf"}
   },
   "cluster2.SuccessfulCompany.com": {
-    "ssh": {"port": "2220","username": "root","password": "DryFire56"},
+    "ssh": {"port": "2220","username": "root","password": "BridgeDawn11","logs":"/var/log/ssh.log"},
     "http": {"portrange": ["8020","8029"],"config": "/etc/service/*.conf"}
   },
   "cluster3.SuccessfulCompany.com": {
-    "ssh": {"port": "2230","username": "root","password": "Hero23Oxy"},
+    "ssh": {"port": "2230","username": "root","password": "DryFire56","logs":"/var/log/ssh.log"},
     "http": {"portrange": ["8030","8039"],"config": "/etc/service/*.conf"}
   },
   "shard0.SuccessfulCompany.com": {
@@ -33,10 +33,10 @@
   },
   "build.SuccessfulCompany.com": {
     "ssh": {"port": "2280","username": "root","password": "buildmaster675"},
-    "http": {"port": "8080"}
+    "http": {"port": "8080","logs":"/var/log/build.log"}
   },
   "nginx.SuccessfulCompany.com": {
     "ssh": {"port": "2290","username": "root","password": "HAPROXY777"},
-    "http": {"port": "8090"}
+    "http": {"port": "8090","logs":"/var/log/nginx/access.log"}
   },
 }

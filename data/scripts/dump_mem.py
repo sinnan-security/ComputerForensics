@@ -1,12 +1,12 @@
 import sys
-pid=205142
+pid=26
 map_file = f"/proc/{pid}/maps"
 mem_file = f"/proc/{pid}/mem"
 out_file = f"{pid}.dump"
 out_file = f"{pid}.map"
 mapf=open(map_file, 'r')
 memf=open(mem_file, 'rb')
-outf=open('ww', 'wb')
+outf=open('26.dump', 'wb')
 for line in mapf.readlines():
 	section=line.split(' ')
 	if section[1][0]=='r':
