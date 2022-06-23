@@ -92,6 +92,7 @@
 		"23rdAprilBonus":"1",
 		"7thMayBonus":"1",
 		"project":"19",
+		"honesty":"2",
 		"assignment1":"2",
 		"assignment2":"2",
 		"assignment3":"2",
@@ -233,7 +234,7 @@
 		"assignment3":"2",
 		"assignment4":"2",
 		"assignment5":"2",
-		"finals":"17"
+		"finals":"21"
 	},
 	"k201693":{
 		"Mid_1st_Attempt":"5",
@@ -348,7 +349,7 @@
 		"Mid_1st_Attempt":"3",
 		"project":"20",
 		"assignment1":"2",
-		"assignment2":"0",
+		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
 		"assignment5":"2",
