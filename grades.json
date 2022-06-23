@@ -1,19 +1,25 @@
 {
-	"grades":{
-		"Mean":"6.40909090909091",
-		"Standard Deviation":"2.38510067589605"
-	},
 	"k201675":{
 		"Mid_1st_Attempt":"5",
 		"Mid_2nd_Attempt":"6",
 		"26thMatchBonus":"1",
 		"project":"20",
+		"assignment1":"0",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201740":{
 		"Mid_1st_Attempt":"4",
 		"Mid_2nd_Attempt":"6",
 		"26thMatchBonus":"1",
 		"project":"20",
+		"assignment1":"0",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201063":{
 		"Mid_1st_Attempt":"4",
@@ -21,6 +27,11 @@
 		"23rdAprilBonus":"1",
 		"7thMayBonus":"1",
 		"project":"20",
+		"assignment1":"0",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200243":{
 		"Mid_1st_Attempt":"2",
@@ -32,20 +43,20 @@
 		"assignment2":"0",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200327":{
 		"Mid_1st_Attempt":"6",
 		"Mid_2nd_Attempt":"14.5",
 		"26thMatchBonus":"1",
-		"Extra Credit":"1",
+		"Correction":"1",
 		"7thMayBonus":"1",
 		"project":"20",
 		"assignment1":"2",
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201754":{
 		"Mid_1st_Attempt":"7",
@@ -55,15 +66,17 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201055":{
 		"Mid_1st_Attempt":"7",
 		"Mid_2nd_Attempt":"10",
 		"project":"19",
-	},
-	"k200385":{
-		"Mid_1st_Attempt":"6",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200481":{
 		"Mid_1st_Attempt":"5",
@@ -76,7 +89,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201643":{
 		"Mid_1st_Attempt":"4",
@@ -87,7 +100,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200375":{
 		"Mid_1st_Attempt":"4",
@@ -99,12 +112,17 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200174":{
 		"Mid_1st_Attempt":"6",
 		"26thMatchBonus":"1",
 		"project":"18",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201752":{
 		"Mid_1st_Attempt":"6",
@@ -114,7 +132,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200137":{
 		"Mid_1st_Attempt":"6",
@@ -124,7 +142,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200324":{
 		"Mid_1st_Attempt":"6",
@@ -135,7 +153,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200462":{
 		"Mid_1st_Attempt":"6",
@@ -145,23 +163,37 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201640":{
 		"Mid_1st_Attempt":"6",
-		"project":"16"
+		"project":"16",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200191":{
-		"todo":"",
 		"Mid_1st_Attempt":"6",
 		"Mid_2nd_Attempt":"0",
 		"26thMatchBonus":"1",
 		"7thMayBonus":"1",
 		"project":"20",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201691":{
 		"Mid_1st_Attempt":"6",
 		"project":"16",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200498":{
 		"Mid_1st_Attempt":"6",
@@ -171,7 +203,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201050":{
 		"Mid_1st_Attempt":"5",
@@ -181,11 +213,16 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201693":{
 		"Mid_1st_Attempt":"5",
 		"project":"16",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201646":{
 		"Mid_1st_Attempt":"5",
@@ -195,17 +232,27 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201751":{
 		"Mid_1st_Attempt":"5",
 		"project":"16",
+		"assignment1":"1",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200496":{
 		"Mid_1st_Attempt":"5",
 		"26thMatchBonus":"1",
 		"7thMayBonus":"1",
 		"project":"16",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k201051":{
 		"Mid_1st_Attempt":"4",
@@ -216,7 +263,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k201671":{
 		"Mid_1st_Attempt":"4",
@@ -227,7 +274,7 @@
 		"assignment2":"1",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200301":{
 		"Mid_1st_Attempt":"4",
@@ -237,7 +284,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200127":{
 		"Mid_1st_Attempt":"4",
@@ -246,7 +293,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200480":{
 		"Mid_1st_Attempt":"3",
@@ -255,7 +302,7 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200341":{
 		"Mid_1st_Attempt":"3",
@@ -265,11 +312,16 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200336":{
 		"Mid_1st_Attempt":"3",
 		"project":"20",
+		"assignment1":"2",
+		"assignment2":"0",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200358":{
 		"Mid_1st_Attempt":"4",
@@ -277,10 +329,15 @@
 		"23rdAprilBonus":"1",
 		"7thMayBonus":"1",
 		"Honesty":"1",
-		"project":"17",
+		"Correction":"1",
+		"project":"20",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	},
 	"k200357":{
-		"todo":"",
 		"Mid_1st_Attempt":"4",
 		"Mid_2nd_Attempt":"0",
 		"26thMatchBonus":"1",
@@ -290,12 +347,17 @@
 		"assignment2":"2",
 		"assignment3":"2",
 		"assignment4":"2",
-		"assignment5":"2",
+		"assignment5":"2"
 	},
 	"k200329":{
 		"Mid_1st_Attempt":"5",
 		"Mid_2nd_Attempt":"0",
 		"26thMatchBonus":"1",
 		"project":"20",
+		"assignment1":"2",
+		"assignment2":"2",
+		"assignment3":"2",
+		"assignment4":"2",
+		"assignment5":"2"
 	}
 }
